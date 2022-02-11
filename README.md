@@ -1,7 +1,7 @@
 <div style="display: flex;">
   <div>
-    ### Hi there! I'm Mateus Turola 👋
-    <p>
+        <h3 align="left">Hi there! I'm Mateus Turola 👋:</h3>
+  <p>
       Estou em transição de carreira voltando para a área do desenvolvimento
       web, estudando Desenvolvimento Web na Trybe.
       </br>
