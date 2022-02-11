@@ -5,7 +5,7 @@
       Estou em transição de carreira voltando para a área do desenvolvimento
       web, estudando Desenvolvimento Web na Trybe.
       </br>
-      Oficialmente Desenvolvedor Front End e logo mais, Desenvolvedor Back End.
+      Oficialmente Desenvolvedor Front End e logo mais, Desenvolvedor Full Stack.
       </br>
       Os Últimos 6 meses (agosto de 2021 – fevereiro de 2022) trabalhamos em
       mais de 10 Projetos onde desenvolvemos nossas habilidades em: HTML, CSS,
