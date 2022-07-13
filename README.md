@@ -17,7 +17,7 @@
     </p>
     <h3 align="left">Connect with me:</h3>
     <p align="left">
-      <a href="https://linkedin.com/in/mateusturola" target="blank">
+      <a href="https://www.linkedin.com/in/mateus-turola/" target="blank">
         <img align="center"
           src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
           alt="mateusturola" />
@@ -31,7 +31,7 @@
           src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
           alt="mateusturola" />
       </a>
-      <a href="https://instagram.com/mateusturola" target="blank"><img align="center"
+      <a href="https://www.instagram.com/fmateusturola/" target="blank"><img align="center"
           src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
           alt="mateusturola" />
       </a>
