@@ -7,7 +7,7 @@
       </br>
       Oficialmente Desenvolvedor Front End e logo mais, Desenvolvedor Full Stack.
       </br>
-      Os Últimos 6 meses (agosto de 2021 – fevereiro de 2022) trabalhamos em
+      No modulo de front-end trabalhamos em
       mais de 10 Projetos onde desenvolvemos nossas habilidades em: HTML, CSS,
       Javascript / ECMAScript 6, Jest, React, Redux, Context Api, React Testing
       Library, Javascript, API entre outras.
